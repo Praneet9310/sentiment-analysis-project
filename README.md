@@ -2,6 +2,7 @@
 This project implements a sentiment analysis model to classify text as positive or negative using Machine Learning.
 
 Project Overview
+
 The model processes text data, performs preprocessing, and applies classification techniques to predict sentiment.
 
 Technologies Used
